@@ -6,7 +6,8 @@ Banks apply interests on loans which are the sanctioned to their customers (borr
 Thus, identifying the credit worthiness of an individual/an organization is highly important before sanctioning the loan.
 
 Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. The nature of target or dependent variable is dichotomous, which means there would be only two possible classes.
-
 In simple words, the dependent variable is binary in nature having data coded as either 1 (stands for success/yes) or 0 (stands for failure/no).
-
 Mathematically, a logistic regression model predicts P(Y=1) as a function of X. It is one of the simplest ML algorithms that can be used for various classification problems .
+
+A decision tree is a flowchart-like structure in which each internal node represents a test on a feature (e.g. whether a coin flip comes up heads or tails) , each leaf node represents a class label (decision taken after computing all features) and branches represent conjunctions of features that lead to those class labels.
+The paths from root to leaf represent classification rules
